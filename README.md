@@ -8,7 +8,7 @@ WIP: login, set goals, and track healthy habits.
 | --- | --- | --- |
 | React | LocalStorage | CSS |
 
-⋅⋅* React Router for the 2 pages
+* React Router for the 2 pages
 
 ### Product
 | Front-end | Back-end | Styling |
