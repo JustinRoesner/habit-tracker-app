@@ -7,8 +7,9 @@ WIP: login, set goals, and track healthy habits.
 | Front-end | Back-end | Styling |
 | --- | --- | --- |
 | React | LocalStorage | CSS |
+..* React Router for the 2 pages
 
-### Full Product
+### Product
 | Front-end | Back-end | Styling |
 | --- | --- | --- |
 | React | Java with SpringBoot | CSS |
