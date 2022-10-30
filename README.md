@@ -18,7 +18,6 @@ Full Product
 | React | Java with SpringBoot | CSS |
 | TypeScript | MySQL Database | Sass |
 | --- | SSO through Google | Responsive Design |
-| --- | LocalStorage | --- |
 
 Responsive design for mobile
 Front-end React
