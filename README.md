@@ -1,2 +1,4 @@
 # habit-tracker-app
-Login, set goals, and track healthy habits.
+WIP: Login, set goals, and track healthy habits.
+
+
