@@ -13,7 +13,7 @@ WIP: login, set goals, and track healthy habits.
 ### Product
 | Front-end | Back-end | Styling |
 | --- | --- | --- |
-| React | Python + flask | CSS |
+| React | Python + Flask | CSS |
 | TypeScript | MySQL Database | Sass |
 | --- | SSO database | Responsive Design |
 
