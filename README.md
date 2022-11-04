@@ -13,9 +13,9 @@ WIP: login, set goals, and track healthy habits.
 ### Product
 | Front-end | Back-end | Styling |
 | --- | --- | --- |
-| React | Java with SpringBoot | CSS |
+| React | Python + flask | CSS |
 | TypeScript | MySQL Database | Sass |
-| --- | SSO through Google | Responsive Design |
+| --- | SSO database | Responsive Design |
 
 ## Wireframe - (Structure, Functions, and Content)
 ![Site Map](https://github.com/JustinRoesner/habit-tracker-app/blob/main/ReadMe%20Images/site-map.jpg?raw=true)
