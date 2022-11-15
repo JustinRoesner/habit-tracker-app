@@ -21,6 +21,7 @@ WIP: login, set goals, and track healthy habits.
 ![Site Map](https://github.com/JustinRoesner/habit-tracker-app/blob/main/ReadMe%20Images/site-map.jpg?raw=true)
 ![Landing Page](https://github.com/JustinRoesner/habit-tracker-app/blob/main/ReadMe%20Images/landing-page.jpg?raw=true)
 ![Habit Page](https://github.com/JustinRoesner/habit-tracker-app/blob/main/ReadMe%20Images/habit-page.jpg?raw=true)
+![Responsive](https://github.com/JustinRoesner/habit-tracker-app/blob/main/ReadMe%20Images/responsive-design.jpg?raw=true)
 
 ## Mockup - Figma (Style, Colors, Accurate Content)
 
